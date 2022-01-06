@@ -1,6 +1,6 @@
 ## Welcome to Personal Page
 
-You can folow me [on GitHub](https://github.com/rant95/) to explore my projects.
+You can follow me [on GitHub](https://github.com/rant95/) to explore my projects.
 
 I have an another website [personal website](http://zarius.free.fr/).
 
