@@ -12,8 +12,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+    - 👋 Hi, I’m Lova
+   -  👀 I’m interested in Python, R and Scala
+   -  🌱 I’m currently learning AI.
+   -  💞️ I’m looking to collaborate on data science projects
+   -  📫 Contact me by email
+
+
 ## Header 2
-### Header 3
+
 
 - Bulleted
 - List
