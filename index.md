@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Personal Page
 
-You can use the [editor on GitHub](https://github.com/rant95/rant95.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can folow me [on GitHub](https://github.com/rant95/) to explore my projects.
 
 I have an another website [personal website](http://zarius.free.fr/).
 
