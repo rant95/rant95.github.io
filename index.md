@@ -33,7 +33,7 @@ This study will find correlations and atypical cases between 4G cells through va
 Prediction of the binary variable outcome using different algorithms.\\
 4. Identification Dog Breed- Python\\
 Classification of photos of dogs in 30 categories with a model of prediction Convolutional neuronal Network (CNN)\\
-5.News Articles Classification- Scala\\
+5. News Articles Classification- Scala\\
 LSA/Word2Vec latent semantic analysis of articles in the all-the-News dataset from Kaggle and kmeans classification.\\
 6. Music Source Separation- Python\\
 Separation of the audio sources of a music from MUSDB18 with on one side the vocal and on the other the instrumental. Using Neural network architecture on the spectrum with BLSTM layers (model Deep Mask and Open UNMIX).\\
