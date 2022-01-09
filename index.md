@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Welcome to my personal's page
 
-You can use the [editor on GitHub](https://github.com/rant95/rant95.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my [projects](https://github.com/rant95/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i have also another website [Website](http://zarius.free.fr//) in PHP.
 
-### Markdown
+# About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+👋🏽 Hi, I'm Lova from International Carriers
 
-```markdown
-Syntax highlighted code block
+🎓 Graduate from CNAM in Network and Telecommunication Master's Degree and I got a certificate of specialization in Big data analysis. In 2022 I will get a a certificate of specialization in AI
 
-# Header 1
-## Header 2
-### Header 3
+🌇 Work in Remote and my office is in Paris
+ 
+📚 Analyze the CRM's opportunities, upsell, churn, customer acquisition, cross-selling, actual and budget revenues with power BI.
+I analyzed the KPIs data and optimized the quality of service 2G/3G/4G and I used to be an infrastructure project manager (chilled water production, electric power generation, fire suppression system).
 
-- Bulleted
-- List
+💻 As for my future, I hope to one day work as Machine Learning Engineer. https://github.com/rant95
 
-1. Numbered
-2. List
+🏔 In my free time, I enjoy practicing Yoga, Inline Hockey and running. Obviously I enjoy watching movies and TV show.
 
-**Bold** and _Italic_ and `Code` text
+💪🏽 My strengths are Analytical, Storytelling, Curiosity, multi-cloud, project management and Team player.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+# My Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rant95/rant95.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Analysis of tweets Covid19- Scala\\
+Thematic analysis and modeling predicting the sentiment of a tweet on the Covid19 theme in 2020. With Stanford CoreNLP library on Databricks/MongoDB\\
+2. 4G radio sites Classification- R\\
+This study will find correlations and atypical cases between 4G cells through variable reduction (PCA) and hierarchical clustering and kmeans\\
+3. Income Prediction Census US- R\\
+Prediction of the binary variable outcome using different algorithms.\\
+4. Identification Dog Breed- Python\\
+Classification of photos of dogs in 30 categories with a model of prediction Convolutional neuronal Network (CNN)\\
+5.News Articles Classification- Scala\\
+LSA/Word2Vec latent semantic analysis of articles in the all-the-News dataset from Kaggle and kmeans classification.\\
+6. Music Source Separation- Python\\
+Separation of the audio sources of a music from MUSDB18 with on one side the vocal and on the other the instrumental. Using Neural network architecture on the spectrum with BLSTM layers (model Deep Mask and Open UNMIX).\\
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
