@@ -43,9 +43,11 @@ Separation of the audio sources of a music from MUSDB18 with on one side the voc
 ## Alexa skills
 
 Information Culturelle et histoire de l'art (French)\\
+
 https://www.amazon.fr/dp/B09QCR1528
 
 La Blague du jour  (French)\\
+
 https://www.amazon.fr/dp/B09Q3DDPBH
 
 
