@@ -73,7 +73,7 @@ Prediction of the binary variable outcome using different algorithms.
 
 Churn Prevention
 
-LRFM Scoring dashboard
+[LRFM Scoring dashboard](https://gitlab.tech.orange/ic-bpm/customers-segmentation)
 
 IP Traffic Forecast 
 
