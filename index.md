@@ -1,12 +1,12 @@
 # Welcome to my personal's page
 
-You can see my [projects](https://github.com/rant95/) on Github and my [projects]((https://gitlab.com/docgero3) on Gitlab.
+You can see my [projects on Github](https://github.com/rant95/) and my [projects on Gitlab](https://gitlab.com/docgero3) .
 
 i have also another website [Website](http://zarius.free.fr//) in PHP.
 
 # About me
 
-👋🏽 Hi, I'm Lova from International Carriers
+👋🏽 Hi, I'm Lova  and I'm data Scientist in Business Intelligence at International Carriers
 
 🎓 Graduate from CNAM in Network and Telecommunication Master's Degree and I hold a [certificate of specialization in Big data analysis](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-analyste-de-donnees-massives-669531.kjsp) and I have recently got a [certificate of specialization in AI](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-intelligence-artificielle-1176377.kjsp) at CNAM
 
@@ -59,14 +59,10 @@ Prediction of the binary variable outcome using different algorithms.
 
 ## Alexa skills
 
-Information Culturelle et histoire de l'art (French) 
-
-https://www.amazon.fr/dp/B09QCR1528
+*.[Information Culturelle et histoire de l'art (French)](https://www.amazon.fr/dp/B09QCR1528)
 
 
-La Blague du jour (French) 
-
-https://www.amazon.fr/dp/B09Q3DDPBH
+*.[La Blague du jour (French)](https://www.amazon.fr/dp/B09Q3DDPBH)
 
 ## Power BI report
 
