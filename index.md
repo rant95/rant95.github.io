@@ -1,6 +1,6 @@
 # Welcome to my personal's page
 
-You can see my [projects](https://github.com/rant95/).
+You can see my [projects](https://github.com/rant95/) on Github and my [projects]((https://gitlab.com/docgero3) on Gitlab.
 
 i have also another website [Website](http://zarius.free.fr//) in PHP.
 
@@ -8,18 +8,18 @@ i have also another website [Website](http://zarius.free.fr//) in PHP.
 
 👋🏽 Hi, I'm Lova from International Carriers
 
-🎓 Graduate from CNAM in Network and Telecommunication Master's Degree and I got a certificate of specialization in Big data analysis. In 2022 I will get a a certificate of specialization in AI
+🎓 Graduate from CNAM in Network and Telecommunication Master's Degree and I hold a [certificate of specialization in Big data analysis](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-analyste-de-donnees-massives-669531.kjsp) and I have recently got a [certificate of specialization in AI](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-intelligence-artificielle-1176377.kjsp) at CNAM
 
 🌇 Work in Remote and my office is in Paris
  
-📚 Analyze the CRM's opportunities, upsell, churn, customer acquisition, cross-selling, actual and budget revenues with power BI.
-I analyzed the KPIs data and optimized the quality of service 2G/3G/4G and I used to be an infrastructure project manager (chilled water production, electric power generation, fire suppression system).
+📚 Analyze the CRM's opportunities, upselling, churn prevention, customer acquisition, cross-selling, forecast revenues and internet IP traffic with power BI Gitlab CI/CD.
+I analyzed as Data Analyst the KPIs data and optimized the quality of service RAN 2G/3G/4G. I used to be an infrastructure project manager designing the engineering of the network room. (chilled water production, electric power generation, fire suppression system).
 
 💻 As for my future, I hope to one day work as Machine Learning Engineer. https://github.com/rant95
 
 🏔 In my free time, I enjoy practicing Yoga, Inline Hockey and running. Obviously I enjoy watching movies and TV show.
 
-💪🏽 My strengths are Analytical, Storytelling, Curiosity, multi-cloud, project management and Team player.
+💪🏽 My strengths are Analytical, leadership, Storytelling, Curiosity, multi-cloud, project management and Team player.
 
 
 
@@ -27,23 +27,35 @@ I analyzed the KPIs data and optimized the quality of service 2G/3G/4G and I use
 
 ## Data Science projects
 
-1. Analysis of tweets Covid19- Scala 
+*. [Analysis of tweets Covid19](https://github.com/rant95/Sentiment_analysis_Tweet_covid)- Scala 
 Thematic analysis and modeling predicting the sentiment of a tweet on the Covid19 theme in 2020. With Stanford CoreNLP library on Databricks/MongoDB 
 
-2. 4G radio sites Classification- R 
+*. [4G radio sites Classification](https://github.com/rant95/Classification-4G-Mobile-site)- R 
 This study will find correlations and atypical cases between 4G cells through variable reduction (PCA) and hierarchical clustering and kmeans 
 
-3. Income Prediction Census US- R 
-Prediction of the binary variable outcome using different algorithms. 
+*. [Translation image to image]((https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Projet_cyclegan_Monet2photo_v3.ipynb)) - Python
+CycleGAN transfers styles to images and converting real pictures into Monet or Van Gogh pictures.
 
-4. Identification Dog Breed- Python 
+*.[Generation Face with GAN](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Project%20generation%20Face%20GAN.ipynb) - Python
+Generative Adversarial Networks are used to generate images that never existed before. They learn about the world (objects, animals and so forth) and create new versions of those images that never existed.
+
+*. [Music Source Separation](https://github.com/rant95/Separation_audio_source)- Python 
+Separation of the audio sources of a music from MUSDB18 with on one side the vocal and on the other the instrumental. Using Neural network architecture on the spectrum with BLSTM layers (model Deep Mask and Open UNMIX).
+
+*. [Car Price Prediction](https://github.com/rant95/Car-Price-Prediction) - Scala
+Modeling car prices with the available independent variables by a regression model such as linear regression, Random Forest regression, Decision tree regression
+
+*. [Identification Dog Breed](https://github.com/rant95/Dog_breed_classification)- Python 
 Classification of photos of dogs in 30 categories with a model of prediction Convolutional neuronal Network (CNN) 
 
-5. News Articles Classification- Scala 
+*. [Dogs vs Cats Classification](https://github.com/rant95/Dogs_vs_Cats_classification/blob/main/dogs_vs_cats.ipynb)- Python 
+The objectif is to predict that is a cat or dog with an input image. We take cats_and_dogs _filtered for this classification.
+
+*. [News Articles Classification](https://github.com/rant95/All_the_news_Analysis_NLP)- Scala 
 LSA/Word2Vec latent semantic analysis of articles in the all-the-News dataset from Kaggle and kmeans classification.
 
-6. Music Source Separation- Python 
-Separation of the audio sources of a music from MUSDB18 with on one side the vocal and on the other the instrumental. Using Neural network architecture on the spectrum with BLSTM layers (model Deep Mask and Open UNMIX).
+*. [Income Prediction Census US](https://github.com/rant95/Challenge-Data-Census-US)- R 
+Prediction of the binary variable outcome using different algorithms. 
 
 ## Alexa skills
 
