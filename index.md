@@ -33,7 +33,7 @@ Thematic analysis and modeling predicting the sentiment of a tweet on the Covid1
 *. [4G radio sites Classification](https://github.com/rant95/Classification-4G-Mobile-site)- R 
 This study will find correlations and atypical cases between 4G cells through variable reduction (PCA) and hierarchical clustering and kmeans 
 
-*. [Translation image to image]((https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Projet_cyclegan_Monet2photo_v3.ipynb)) - Python
+*. [Translation image to image](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Projet_cyclegan_Monet2photo_v3.ipynb) - Python
 CycleGAN transfers styles to images and converting real pictures into Monet or Van Gogh pictures.
 
 *.[Generation Face with GAN](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Project%20generation%20Face%20GAN.ipynb) - Python
