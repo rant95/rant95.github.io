@@ -20,9 +20,11 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 🏔 In my free time, I enjoy practicing Yoga, Inline Hockey and running. Obviously I enjoy watching movies and TV show.
 
 💪🏽 My strengths are Analytical, leadership, Storytelling, Curiosity, multi-cloud, project management and Team player. I have some certificate on cloud computing such as:
-Azure: AZ-900, DP-900, AI-900 
-Power Platform: PL-900 
-AWS Cloud Practitioner
+- Azure: AZ-900, DP-900, AI-900 
+
+- Power Platform: PL-900 
+
+- AWS Cloud Practitioner
 
 
 
