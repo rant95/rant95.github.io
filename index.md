@@ -2,7 +2,7 @@
 
 You can see my [projects on Github](https://github.com/rant95/) and my [projects on Gitlab](https://gitlab.com/docgero3) .
 
-i have also another website [Website](http://zarius.free.fr//) in PHP.
+I have also another personal [Website](http://zarius.free.fr//) in PHP.
 
 # About me
 
