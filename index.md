@@ -15,7 +15,7 @@ I have also another personal [Website](http://zarius.free.fr//) in PHP.
 📚 Analyze the CRM's opportunities, upselling, churn prevention, customer acquisition, cross-selling, forecast revenues and internet IP traffic with power BI Gitlab CI/CD.
 I analyzed as Data Analyst the KPIs data and optimized the quality of service RAN 2G/3G/4G. I used to be an infrastructure project manager designing the engineering of the network room. (chilled water production, electric power generation, fire suppression system).
 
-💻 As for my future, I hope to one day work as Machine Learning Engineer. https://github.com/rant95
+💻 As for my future, I hope to one day work as Machine Learning Engineer. I use Gitlab CICD https://gitlab.com/docgero3 and Github actions https://github.com/rant95
 
 🏔 In my free time, I enjoy practicing Yoga, Inline Hockey and running. Obviously I enjoy watching movies and TV show.
 
