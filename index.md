@@ -73,9 +73,16 @@ Prediction of the binary variable outcome using different algorithms.
 
 [Churn Prevention](https://gitlab.com/docgero3/churn)
 
+<img src="https://github.com/rant95/rant95.github.io/blob/main/screenchurn.JPG" width="600" height="480">
+
+
 [LRFM Scoring dashboard](https://gitlab.com/docgero3/customers-segmentation)
 
+<img src="https://github.com/rant95/rant95.github.io/blob/main/Scoring.JPG" width="600" height="480">
+
+
 [IP Traffic Forecast](https://gitlab.com/docgero3/traffic)
-![]<img src="https://github.com/rant95/rant95.github.io/blob/main/forecast.jpg" width="400" height="280">
+
+<img src="https://github.com/rant95/rant95.github.io/blob/main/forecast.jpg" width="600" height="480">
 
 
