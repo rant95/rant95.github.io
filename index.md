@@ -66,11 +66,11 @@ Prediction of the binary variable outcome using different algorithms.
 
 *.[Information Culturelle et histoire de l'art (French)](https://www.amazon.fr/dp/B09QCR1528)
 
-![skill2](alexa2.JPG width="600" height="200")
+<img src="alexa2.JPG" width="600" height="200">
 
 *.[La Blague du jour (French)](https://www.amazon.fr/dp/B09Q3DDPBH)
 
-![skill1](alexa1.JPG width="600" height="200")
+<img src="alexa1.JPG" width="600" height="200">
 
 ## Power BI report
 
