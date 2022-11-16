@@ -75,7 +75,7 @@ Prediction of the binary variable outcome using different algorithms.
 
 [LRFM Scoring dashboard](https://gitlab.com/docgero3/customers-segmentation)
 
-[IP Traffic Forecast] (https://gitlab.com/docgero3/traffic)
+[IP Traffic Forecast](https://gitlab.com/docgero3/traffic)
 
 
 
