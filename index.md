@@ -71,11 +71,11 @@ Prediction of the binary variable outcome using different algorithms.
 
 ## Power BI report
 
-Churn Prevention
+[Churn Prevention](https://gitlab.com/docgero3/churn)
 
 [LRFM Scoring dashboard](https://gitlab.com/docgero3/customers-segmentation)
 
-IP Traffic Forecast 
+[IP Traffic Forecast] (https://gitlab.com/docgero3/traffic)
 
 
 
