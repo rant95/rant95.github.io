@@ -33,6 +33,22 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 
 # My Projects
 
+## Power BI report
+
+[Gitlab Churn Prevention](https://gitlab.com/docgero3/churn)
+
+<img src="screenchurn.JPG" width="600" height="400">
+
+
+[Gitlab LRFM Scoring dashboard](https://gitlab.com/docgero3/customers-segmentation)
+
+<img src="Scoring.JPG" width="600" height="400">
+
+
+[Gitlab IP Traffic Forecast](https://gitlab.com/docgero3/traffic)
+
+<img src="forecast.jpg" width="600" height="400">
+
 ## Data Science projects
 
 *. [Analysis of tweets Covid19](https://github.com/rant95/Sentiment_analysis_Tweet_covid)- Scala 
@@ -75,20 +91,6 @@ Prediction of the binary variable outcome using different algorithms.
 
 <img src="alexa1.JPG" width="600" height="200">
 
-## Power BI report
 
-[Gitlab Churn Prevention](https://gitlab.com/docgero3/churn)
-
-<img src="screenchurn.JPG" width="600" height="480">
-
-
-[Gitlab LRFM Scoring dashboard](https://gitlab.com/docgero3/customers-segmentation)
-
-<img src="Scoring.JPG" width="600" height="480">
-
-
-[Gitlab IP Traffic Forecast](https://gitlab.com/docgero3/traffic)
-
-<img src="forecast.jpg" width="600" height="480">
 
 
