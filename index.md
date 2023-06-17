@@ -4,7 +4,8 @@
 # Welcome to my personal's page
 
 You can see my [projects on Github](https://github.com/rant95/) and my [projects on Gitlab](https://gitlab.com/docgero3) .
-
+My account Rpubs for R projects: [https://rpubs.com/lov95](https://rpubs.com/lov95)
+My profile Gitlab: [https://gitlab.com/docgero3](https://gitlab.com/docgero3)
 I have also another personal [Website](http://zarius.free.fr//) in PHP.
 
 # About me
@@ -28,6 +29,8 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 - Power Platform: PL-900 
 
 - AWS Cloud Practitioner
+  
+- GCP Associate Cloud Engineer 
 
 
 
@@ -51,46 +54,46 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 
 ## Data Science projects
 
-*. [Analysis of tweets Covid19](https://github.com/rant95/Sentiment_analysis_Tweet_covid)- Scala 
+* [Analysis of tweets Covid19](https://github.com/rant95/Sentiment_analysis_Tweet_covid)- Scala 
 Thematic analysis and modeling predicting the sentiment of a tweet on the Covid19 theme in 2020. With Stanford CoreNLP library on Databricks/MongoDB 
 
-*. [4G radio sites Classification](https://github.com/rant95/Classification-4G-Mobile-site)- R 
+* [4G radio sites Classification](https://github.com/rant95/Classification-4G-Mobile-site)- R 
 This study will find correlations and atypical cases between 4G cells through variable reduction (PCA) and hierarchical clustering and kmeans 
 
-*. [Translation image to image](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Projet_cyclegan_Monet2photo_v3.ipynb) - Python
+* [Translation image to image](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Projet_cyclegan_Monet2photo_v3.ipynb) - Python
 CycleGAN transfers styles to images and converting real pictures into Monet or Van Gogh pictures.
 
-*.[Generation Face with GAN](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Project%20generation%20Face%20GAN.ipynb) - Python
+* [Generation Face with GAN](https://github.com/rant95/Advanced-artificial-intelligence/blob/main/Project%20generation%20Face%20GAN.ipynb) - Python
 Generative Adversarial Networks are used to generate images that never existed before. They learn about the world (objects, animals and so forth) and create new versions of those images that never existed.
 
-*. [Music Source Separation](https://github.com/rant95/Separation_audio_source)- Python 
+* [Music Source Separation](https://github.com/rant95/Separation_audio_source)- Python 
 Separation of the audio sources of a music from MUSDB18 with on one side the vocal and on the other the instrumental. Using Neural network architecture on the spectrum with BLSTM layers (model Deep Mask and Open UNMIX).
 
-*. [Car Price Prediction](https://github.com/rant95/Car-Price-Prediction) - Scala
+* [Car Price Prediction](https://github.com/rant95/Car-Price-Prediction) - Scala
 Modeling car prices with the available independent variables by a regression model such as linear regression, Random Forest regression, Decision tree regression
 
-*. [Identification Dog Breed](https://github.com/rant95/Dog_breed_classification)- Python 
+* [Identification Dog Breed](https://github.com/rant95/Dog_breed_classification)- Python 
 Classification of photos of dogs in 30 categories with a model of prediction Convolutional neuronal Network (CNN) 
 
-*. [Dogs vs Cats Classification](https://github.com/rant95/Dogs_vs_Cats_classification/blob/main/dogs_vs_cats.ipynb)- Python 
+* [Dogs vs Cats Classification](https://github.com/rant95/Dogs_vs_Cats_classification/blob/main/dogs_vs_cats.ipynb)- Python 
 The objectif is to predict that is a cat or dog with an input image. We take cats_and_dogs _filtered for this classification.
 
-*. [News Articles Classification](https://github.com/rant95/All_the_news_Analysis_NLP)- Scala 
+* [News Articles Classification](https://github.com/rant95/All_the_news_Analysis_NLP)- Scala 
 LSA/Word2Vec latent semantic analysis of articles in the all-the-News dataset from Kaggle and kmeans classification.
 
-*. [Income Prediction Census US](https://github.com/rant95/Challenge-Data-Census-US)- R 
+* [Income Prediction Census US](https://github.com/rant95/Challenge-Data-Census-US)- R 
 Prediction of the binary variable outcome using different algorithms. 
 
-*. [Wine quality prediction](https://github.com/rant95/Wine-quality-prediction) - Python / R
+* [Wine quality prediction](https://github.com/rant95/Wine-quality-prediction) - Python / R
 Modeling quality score by a regression model such as linear regression, Random Forest regression, xgboost regression and by classification like Random Forest, Decision Tree, SVM, SGB, XGB, KNN, Logistic Regression
 
 ## Alexa skills
 
-*.[Information Culturelle et histoire de l'art (French)](https://www.amazon.fr/dp/B09QCR1528)
+* [Information Culturelle et histoire de l'art (French)](https://www.amazon.fr/dp/B09QCR1528)
 
 <img src="alexa2.JPG" width="600" height="200">
 
-*.[La Blague du jour (French)](https://www.amazon.fr/dp/B09Q3DDPBH)
+* [La Blague du jour (French)](https://www.amazon.fr/dp/B09Q3DDPBH)
 
 <img src="alexa1.JPG" width="600" height="200">
 
