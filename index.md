@@ -97,7 +97,7 @@ LSA/Word2Vec latent semantic analysis of articles in the all-the-News dataset fr
 * [Income Prediction Census US](https://github.com/rant95/Challenge-Data-Census-US)- R 
 Prediction of the binary variable outcome using different algorithms. 
 
-* [Wine quality prediction](https://github.com/rant95/wine_quality_prediction) - Python / R
+* [Wine quality prediction](https://github.com/rant95/wine_quality_prediction-github-actiond) - Python / R
 Modeling quality score by a regression model such as linear regression, Random Forest regression, xgboost regression and by classification like Random Forest, Decision Tree, SVM, SGB, XGB, KNN, Logistic Regression
 
 
