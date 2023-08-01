@@ -8,7 +8,7 @@ feature_image: "U301137.jpg"
 ---
 👋🏽 Hi, I'm Lova  and I'm Data Scientist in Business Intelligence at International Carriers
 
-{% include button.html text="projects on Github" icon="github" link="https://github.com/rant95/" color="#0366d6" %} {% include button.html text="projects on Github" icon="gitlab" link="https://gitlab.com/docgero3" color="#0366d6" %} {% include button.html text="projects on Rpubs"  link="https://rpubs.com/lov95" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://rant95.github.io&text=The%20porfolio%20of%20Lova" color="#0d94e7" %} {% include button.html text="Profil" icon="linkedin" link="https://www.linkedin.com/in/loran7/" %}
+{% include button.html text="Projects on Github" icon="github" link="https://github.com/rant95/" color="#0366d6" %} {% include button.html text="Projects on GitLab 🦊" icon="gitlab" link="https://gitlab.com/docgero3" color="#0366d6" %} {% include button.html text="Projects on Rpubs 🍻"  link="https://rpubs.com/lov95" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://rant95.github.io&text=The%20porfolio%20of%20Lova" color="#0d94e7" %} {% include button.html text="Profil" icon="linkedin" link="https://www.linkedin.com/in/loran7/" %}
 
 
 
