@@ -1,26 +1,25 @@
 ---
-title: About me
+title: Welcome to my personal's page
 feature_text: |
-  ## [Profil GitHub](https://github.com/rant95)
+  ## [github.com/rant95](https://github.com/rant95)
  
 feature_image: "U301137.jpg"
 
 ---
-👋🏽 Hi, I'm Lova  and I'm Data Scientist in Business Intelligence at International Carriers
+You can see my porfolio on Github] and Gitlab]. My account Rpubs for R projects.
+My profile Gitlab: [https://gitlab.com/docgero3](https://gitlab.com/docgero3)
+I have also another personal [Website](http://zarius.free.fr//) in PHP.
 
-{% include button.html text="Projects on Github" icon="github" link="https://github.com/rant95/" color="#0366d6" %} {% include button.html text="Projects on GitLab 🦊" link="https://gitlab.com/docgero3" color="#fca326" %} {% include button.html text="Projects on Rpubs 🍻"  link="https://rpubs.com/lov95" color="#00110" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://rant95.github.io&text=The%20porfolio%20of%20Lova" color="#0d94e7" %} {% include button.html text="Profil" icon="linkedin" link="https://www.linkedin.com/in/loran7/" %}
+{% include button.html text="Projects on Github" icon="github" link="https://github.com/rant95/" color="#0366d6" %} {% include button.html text="Projects on GitLab 🦊" link="https://gitlab.com/docgero3" color="#fca326" %} {% include button.html text="Projects on Rpubs 🍻"  link="https://rpubs.com/lov95" color="#00000" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://rant95.github.io&text=The%20porfolio%20of%20Lova" color="#0d94e7" %} {% include button.html text="Profil" icon="linkedin" link="https://www.linkedin.com/in/loran7/" %}
 
-
-
-# Welcome to my personal's page
+# About me 
 
 You can see my [projects on Github](https://github.com/rant95/) and my [projects on Gitlab](https://gitlab.com/docgero3) .
 My account Rpubs for R projects: [https://rpubs.com/lov95](https://rpubs.com/lov95)
 My profile Gitlab: [https://gitlab.com/docgero3](https://gitlab.com/docgero3)
 I have also another personal [Website](http://zarius.free.fr//) in PHP.
 
-
-
+👋🏽 Hi, I'm Lova  and I'm Data Scientist in Business Intelligence at International Carriers
 
 🎓 Graduate from CNAM in Network and Telecommunication Master's Degree and I hold a [certificate of specialization in Big data analysis](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-analyste-de-donnees-massives-669531.kjsp) and I have recently got a [certificate of specialization in AI](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-intelligence-artificielle-1176377.kjsp) at CNAM
 
