@@ -1,15 +1,14 @@
 ---
-title: About Alembic
+title: About me
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## [Profil GitHub](https://github.com/rant95)
+ 
 feature_image: "U301137.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+
 ---
+👋🏽 Hi, I'm Lova  and I'm Data Scientist in Business Intelligence at International Carriers
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="projects on Github" icon="github" link="https://github.com/rant95/" color="#0366d6" %} {% include button.html text="projects on Github" icon="gitlab" link="https://gitlab.com/docgero3" color="#0366d6" %} {% include button.html text="projects on Rpubs"  link="https://rpubs.com/lov95" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://rant95.github.io&text=The%20porfolio%20of%20Lova" color="#0d94e7" %} {% include button.html text="Profil" icon="linkedin" link="https://www.linkedin.com/in/loran7/" %}
 
 
 
@@ -20,9 +19,8 @@ My account Rpubs for R projects: [https://rpubs.com/lov95](https://rpubs.com/lov
 My profile Gitlab: [https://gitlab.com/docgero3](https://gitlab.com/docgero3)
 I have also another personal [Website](http://zarius.free.fr//) in PHP.
 
-# About me
 
-👋🏽 Hi, I'm Lova  and I'm data Scientist in Business Intelligence at International Carriers
+
 
 🎓 Graduate from CNAM in Network and Telecommunication Master's Degree and I hold a [certificate of specialization in Big data analysis](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-analyste-de-donnees-massives-669531.kjsp) and I have recently got a [certificate of specialization in AI](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-intelligence-artificielle-1176377.kjsp) at CNAM
 
