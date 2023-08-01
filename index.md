@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "U301137.jpg"
 
 ---
-You can see my porfolio on Githuband Gitlab. My account Rpubs for R projects.
+You can see my porfolio on Github and Gitlab. My account Rpubs for R projects.
 
 
 {% include button.html text="Projects on Github" icon="github" link="https://github.com/rant95/" color="#0366d6" %} {% include button.html text="Projects on GitLab 🦊" link="https://gitlab.com/docgero3" color="#fca326" %} {% include button.html text="Projects on Rpubs 🍻"  link="https://rpubs.com/lov95" color="#000000" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://rant95.github.io&text=The%20porfolio%20of%20Lova" color="#0d94e7" %} {% include button.html text="Profil" icon="linkedin" link="https://www.linkedin.com/in/loran7/" %}
