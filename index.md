@@ -106,7 +106,7 @@ Modeling quality score by a regression model such as linear regression, Random F
 I built a bot AI in JavaScript with openAI API on Discord
 [Script Bot AI](https://replit.com/@LovaRant/CustomChatBot#index.js)
 
-This the channel on Discord to test the [bot AI](https://discord.com/channels/1104383378217771058/1104383378674954333)
+This is the channel on Discord to test the [bot AI](https://discord.com/channels/1104383378217771058/1104383378674954333)
 
 
 ## Alexa skills
