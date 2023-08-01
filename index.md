@@ -15,8 +15,6 @@ You can see my porfolio on Github and Gitlab. My account Rpubs for R projects.
 
 You can see my [projects on Github](https://github.com/rant95/) and my [projects on Gitlab](https://gitlab.com/docgero3) .
 My account Rpubs for R projects: [https://rpubs.com/lov95](https://rpubs.com/lov95)
-My profile Gitlab: [https://gitlab.com/docgero3](https://gitlab.com/docgero3)
-I have also another personal [Website](http://zarius.free.fr//) in PHP.
 
 👋🏽 Hi, I'm Lova  and I'm Data Scientist in Business Intelligence at International Carriers
 
@@ -32,6 +30,7 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 🏔 In my free time, I enjoy practicing Yoga, Inline Hockey and running. Obviously I enjoy watching movies and TV show.
 
 💪🏽 My strengths are Analytical, leadership, Storytelling, Curiosity, multi-cloud, project management and Team player. I have some certificate on cloud computing such as:
+
 - Azure: AZ-900, DP-900, AI-900 
 
 - Power Platform: PL-900 
@@ -94,6 +93,15 @@ Prediction of the binary variable outcome using different algorithms.
 
 * [Wine quality prediction](https://github.com/rant95/Wine-quality-prediction) - Python / R
 Modeling quality score by a regression model such as linear regression, Random Forest regression, xgboost regression and by classification like Random Forest, Decision Tree, SVM, SGB, XGB, KNN, Logistic Regression
+
+
+## Bot AI OpenAI
+
+I built a bot AI in JavaScript with openAI API on Discord
+[Script Bot AI](https://replit.com/@LovaRant/CustomChatBot#index.js)
+
+This the channel on Discord to test the [bot AI](https://discord.com/channels/1104383378217771058/1104383378674954333)
+
 
 ## Alexa skills
 
