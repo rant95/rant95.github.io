@@ -47,15 +47,21 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 
 [Gitlab Churn Prevention](https://gitlab.com/docgero3/churn)
 
+Python: Logistic Regression, Random Forest, Decison Tree
+
 <img src="screenchurn.JPG" width="600" height="400">
 
 
 [Gitlab LRFM Scoring dashboard](https://gitlab.com/docgero3/customers-segmentation)
 
+Python: Hierarchical ascending classification, Kmeans
+
 <img src="Scoring.JPG" width="600" height="400">
 
 
 [Gitlab IP Traffic Forecast](https://gitlab.com/docgero3/traffic)
+
+Python: ARIMA, Expontial smoothing, Variationel autoencoder Multivariate, LSTM Multivariate & Univariate
 
 <img src="forecast.jpg" width="600" height="400">
 
