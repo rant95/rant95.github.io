@@ -1,0 +1,9 @@
+<nav class="nav  nav--index">
+  <ul class="list  list--index">
+    {% for item in site.index%}
+      <li class="item  item--index">
+        <a href="#{{ item | first | slugify }}">{{ item | first }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
