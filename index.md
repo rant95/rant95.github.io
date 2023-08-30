@@ -71,9 +71,9 @@ Python: ARIMA, Expontial smoothing, Variationel autoencoder Multivariate, LSTM M
 [Extraction text from pdf with AI Builder and add row into excel on Sharepoint ]
 
 AI Builder with custom model for sale contract
-<img src="etracrt PDF.png" width="600" height="400">
+<img src="etract PDF.png" width="600" height="400">
 Process Mining
-<img src="etracrt PDF.png" width="600" height="400">
+<img src="process_minig.png" width="600" height="400">
 
 ## Data Science projects
 
