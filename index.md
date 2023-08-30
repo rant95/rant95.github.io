@@ -41,6 +41,7 @@ I analyzed as Data Analyst the KPIs data and optimized the quality of service RA
 
 
 
+
 # My Projects
 
 ## Power BI report
@@ -64,6 +65,15 @@ Python: Hierarchical ascending classification, Kmeans
 Python: ARIMA, Expontial smoothing, Variationel autoencoder Multivariate, LSTM Multivariate & Univariate
 
 <img src="forecast.jpg" width="600" height="400">
+
+## Power Automate Cloud
+
+[Extraction text from pdf with AI Builder and add row into excel on Sharepoint ]
+
+AI Builder with custom model for sale contract
+<img src="etracrt PDF.png" width="600" height="400">
+Process Mining
+<img src="etracrt PDF.png" width="600" height="400">
 
 ## Data Science projects
 
