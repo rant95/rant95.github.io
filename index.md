@@ -72,11 +72,11 @@ Python: ARIMA, Expontial smoothing, Variationel autoencoder Multivariate, LSTM M
 
 The flow: When a new email arrives with specific attachment, the pdf is saved into sharepoint folder then the AI Builder with custom model for sale contract extracts the text and adds a row into the table. 
 
-<img src="extract_PDF.jpg" width="600" height="400">
+<img src="extract_PDF.jpg" width="800" height="400">
 
 Process Mining
 
-<img src="process_mining.jpg" width="600" height="400">
+<img src="process_mining.jpg" width="800" height="400">
 
 ## Data Science projects
 
