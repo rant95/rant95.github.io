@@ -76,7 +76,7 @@ The flow: When a new email arrives with specific attachment, the pdf is saved in
 
 Process Mining
 
-<img src="process_minig.png" width="600" height="400">
+<img src="process_mining.png" width="600" height="400">
 
 ## Data Science projects
 
